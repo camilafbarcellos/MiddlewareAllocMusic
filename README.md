@@ -36,4 +36,4 @@ Se as credenciais do usuário estiverem incorretas, a autenticação falhará e 
 | `ERROR`  |  Erro no servidor ao processar requisição  |
 | `PARAMERROR`  |  Erro de parâmetros inválidos ou ausentes  |
 
-_Made by [Camila Barcellos](https://github.com/camilafbarcellos) - 2023_
+_Made by [Camila Barcellos](https://github.com/camilafbarcellos) - IFSul - 2023_
