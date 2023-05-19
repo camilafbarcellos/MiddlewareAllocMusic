@@ -29,7 +29,7 @@ Se as credenciais do usuário estiverem incorretas, a autenticação falhará e 
 | SAIR  |  Cliente solicita o encerramento da comunicação  |
 | SAIRREPLY  |  Servidor responde e encerra a comunicação com o cliente  |
 
-## Lista de códigos de status*
+## Lista de códigos de status
 | STATUS  | DESCRIPTION |
 | ------------- | ------------- |
 | OK  |  Operação completada com sucesso  |
